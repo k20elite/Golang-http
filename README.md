@@ -1,2 +1,1 @@
-# ddos-golang
-go run tên file --site site cần ddos
+go run tên file --site
